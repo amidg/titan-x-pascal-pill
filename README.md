@@ -20,5 +20,5 @@ Maximum achieved hashrate with standard setting (+0 on core, +0 on VRAM, 100% PL
 
 ## Known bugs:
 * Due to the lack of the initial source code, this VRAM timing fix uses timings from the GTX1080 that is also the 1st gen GDDR5X GPU. 
-* If started before miner -> entire system crash with BDOF (Blue Screen of Death). Full cold restart is required.
+* If started before miner -> entire system crash with BSOD (Blue Screen of Death). Full cold restart is required.
 * No overclocking headroom compare to the original pill + GTX1080ti. 
